@@ -14,4 +14,6 @@ $ node .
 - [Baileys](https://github.com/adiwajshing/baileys)
 
 # Note 
+Ini hanyalah kode basik untuk instalasi
+
 Tinggalkan kritik & saran pada kami di issues, kritik dan saran anda sangat berarti bagi saya
