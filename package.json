@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "start": "node index.js"
+    },
+    "name": "Baileys",
+    "description": "Baileys Multi Device",
+    "version": "1.0.0",    
+    "type": "module",
+    "dependencies": {
+        "@adiwajshing/baileys": "^4.1.0",
+        "@adiwajshing/keyed-db": "^0.2.4",
+        "qrcode-terminal": "^0.12.0"
+  }
+}
