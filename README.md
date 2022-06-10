@@ -1,6 +1,11 @@
 # Dinata-Bot-Md
 Base script from code adiwajishing baileys version ESM Js
 
+# Media Sosial
+||
+| :--- |
+| [Group WhatsApp](https://chat.whatsapp.com/L0mR114J9SEKNrPfaYyfLz) | 
+
 # Command Terminal
 ```bash
 $ git clone https://github.com/asbiiiiiii/Dinata-Bot-Md/
