@@ -1,6 +1,11 @@
 # Dinata-Bot-Md
 Base script from code adiwajishing baileys version ESM Js
 
+# Ohayo
+Selebihnya mikir sendiri tod
+Tidak menerima jass tanya jawab
+Langsung aja ke issues
+
 # Media Sosial
 ||
 | :--- |
